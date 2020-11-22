@@ -1,5 +1,5 @@
 {
-  "name": "js-to",
+  "name": "js-to-x",
   "version": "0.0.1",
   "description": "Starter template for JS-to-X AST generators",
   "main": "lib/index.js",
