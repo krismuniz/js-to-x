@@ -1,6 +1,6 @@
 # JS-to-X Template
 
-![License:MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+![[License:MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 Starter template for parsing a JavaScript syntax tree and turning it into another syntax tree.
 
