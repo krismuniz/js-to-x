@@ -1,0 +1,22 @@
+{
+  "name": "js-to",
+  "version": "0.0.1",
+  "description": "Starter template for JS-to-X AST generators",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/krismuniz/js-to-json-logic.git"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": ["js", "to", "js-to"],
+  "author": "Kristian Muñiz <contact@krismuniz.com> (https://krismuniz.com)",
+  "license": "MIT",
+  "dependencies": {
+    "meriyah": "^1.9.15"
+  }
+}
